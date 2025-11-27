@@ -12,7 +12,7 @@ The goal of this project is to demonstrate the implementation of modern data inf
 ## 🚧 Current Status & Roadmap
 
 **Current Version: v1.0**
-* ✅ **Studio Albums:** Fully cataloged with release year, cover art, and streaming links.
+* ✅ **Studio Albums:** Fully cataloged with release year, and cover arts.
 
 **Roadmap (Upcoming Updates):**
 1.  ⬜ **Singles:** Cataloging all official single releases.
@@ -53,4 +53,5 @@ The infrastructure is defined entirely via code (IaC) using Docker Compose.
 2. Open your terminal and run:
 
 ```bash
+
 docker-compose up -d
