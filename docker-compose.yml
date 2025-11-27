@@ -1,0 +1,12 @@
+version: '3'
+services: 
+  nocodb: 
+    image: nocodb/nocodb:latest
+    container_name: iron_maiden_db
+    restart: always
+    ports: 
+      - "8080:8080"
+    volumes:
+      - nc_data:/usr/app/data 
+volumes:
+  nc_data:
