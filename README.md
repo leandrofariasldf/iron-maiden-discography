@@ -19,6 +19,7 @@ The goal of this project is to demonstrate the implementation of modern data inf
 2.  ⬜ **Live Albums:** Adding legendary recordings like *Live After Death*.
 3.  ⬜ **Compilations:** Best Ofs and Box Sets.
 4.  ⬜ **Obscure Releases:** Demos, B-Sides, and rare bootlegs.
+5.  ⬜ **Member Lineup**
 
 ## 📂 Open Data (Download)
 
@@ -55,3 +56,4 @@ The infrastructure is defined entirely via code (IaC) using Docker Compose.
 ```bash
 
 docker-compose up -d
+
