@@ -57,3 +57,20 @@ The infrastructure is defined entirely via code (IaC) using Docker Compose.
 
 docker-compose up -d
 
+## ⚖️ License & Copyright / Licença e Direitos Autorais
+
+### 🇧🇷 Português
+**Este projeto é de cunho estritamente educacional e sem fins lucrativos.**
+
+* **Código e Infraestrutura:** A estrutura do projeto, arquivos Docker e organização do banco de dados são disponibilizados sob a [Licença MIT](LICENSE).
+* **Conteúdo de Terceiros:** Todas as imagens, capas de álbuns, logotipos e nomes relacionados à banda **Iron Maiden** são propriedade intelectual de **Iron Maiden Holdings Ltd.** e suas respectivas gravadoras.
+* **Uso Justo (Fair Use):** O uso de imagens de baixa resolução para fins de identificação, crítica, comentário e catalogação em um contexto educacional qualifica-se como "Fair Use" (Uso Justo) sob a lei de direitos autorais. Este repositório não hospeda arquivos de áudio (MP3/WAV).
+
+### 🇺🇸 English
+**This is a strictly educational, non-profit project.**
+
+* **Code & Infrastructure:** The project structure, Docker files, and database organization are released under the [MIT License](LICENSE).
+* **Third-Party Content:** All images, album covers, logos, and names related to **Iron Maiden** are the intellectual property of **Iron Maiden Holdings Ltd.** and their respective record labels.
+* **Fair Use:** The use of low-resolution images for identification, criticism, commentary, and cataloging within an educational context qualifies as "Fair Use" under copyright law. This repository does not host any audio files (MP3/WAV).
+
+---
