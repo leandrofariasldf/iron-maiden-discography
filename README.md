@@ -26,7 +26,7 @@ The goal of this project is to demonstrate the implementation of modern data inf
 Beyond the infrastructure, this project aims to provide a structured **Dataset** for the community. You can download the curated data directly from this repository:
 
 * **[📂 Download CSV](dataset/iron_maiden_discography.csv)** (Best for Excel, Google Sheets, PowerBI)
-* **[📂 Download JSON](dataset/discografia_iron_maiden.json)** (Standard format for developers)
+* **[📂 Download JSON](dataset/iron_maiden_discography.json)** (Standard format for developers)
 
 > *Note: The dataset files contain metadata and file references. Actual image files are hosted within the container instance.*
 
@@ -69,4 +69,5 @@ docker-compose up -d
 
 ---
 *Study project focused on Containerization and Data Management.* UP THE IRONS! 🎸
+
 
