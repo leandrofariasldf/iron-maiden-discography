@@ -7,7 +7,7 @@
 
 A **Self-Hosted** database project designed to catalog and manage the complete discography of **Iron Maiden**.
 
-The goal of this project is to demonstrate the implementation of modern data infrastructure using **Docker** and **No-Code** tools (NocoDB) for data curation and organization with a focus on **Open Source Tools** moving away from traditional complex SQL setups.
+The goal of this project is to demonstrate the implementation of modern data infrastructure using **Docker** and **No-Code** tools (NocoDB) for data curation and organization with a focus on **Open Source Tools** moving away from traditional complex SQL setups and proprietary tools.
 
 ## 🚧 Current Status & Roadmap
 
